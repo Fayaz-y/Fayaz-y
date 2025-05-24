@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate AI enthusiast currently pursuing 
 ---
 
 ## 📫 How to reach me
-- 📧 Email: fayazyofficial@gmail.com
+- 📧 Email: y.mohamedfayaz@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/fayaz-y](https://linkedin.com/in/mohamed-fayaz-7b0531239)
 ---
     
