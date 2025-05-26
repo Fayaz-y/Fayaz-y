@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate AI enthusiast currently pursuing 
 
 ---
 
-## 💞️ I’m looking to collaborate on
+## I’m looking to collaborate on
 - AI research or practical ML projects
 - Real-time computer vision systems
 - AI-based safety and health monitoring solutions
