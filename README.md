@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate AI enthusiast currently pursuing 
 
 ---
 
-## 👀 I’m interested in
+##  I’m interested in
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning and Neural Networks
 - 📹 Computer Vision for real-time applications
