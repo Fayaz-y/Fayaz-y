@@ -4,11 +4,10 @@ Welcome to my GitHub profile!
 
 ---
 
-##  I’m interested in
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning and Neural Networks
-- 📹 Computer Vision for real-time applications
-- 🛡️ AI for social good 
+I'm passionate about building impactful AI systems that solve real-world problems — especially in areas like real-time computer vision, socially responsible AI, and solving real-time projects.
+Feel free to explore my projects!
+
+
 
 ---
 
